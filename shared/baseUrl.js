@@ -1,0 +1,1 @@
+export const baseUrl = 'http://dungdnt217.herokuapp.com/'
